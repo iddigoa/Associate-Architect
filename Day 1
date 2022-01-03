@@ -1,1 +1,13 @@
+CRC Card
+  Concept
+  Responsibility
+  Collaboration
+  
 
+Jacobson
+  entity objects : just information
+  interface objects : process.  input/output
+  control objects : change entity status
+  
+  
+  
